@@ -1,1 +1,1 @@
-# Diamond-Price-Prediction
+# Optimizing-Buying-Strategies-for-Diamonds
