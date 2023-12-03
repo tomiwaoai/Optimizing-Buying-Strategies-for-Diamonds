@@ -11,7 +11,7 @@ price.
 
 ### Dataset Description
 
-The dataset consists of 9 predictor variables. The first 6 are quantitative, while the remaining 3 are categorical as show below.
+The dataset consists of 9 predictor variables with 50,000+ records. The first 6 are quantitative, while the remaining 3 are categorical as show below.
 
 1. Carat which is the weight of the diamond. For example, 1 carat is equivalent to .2 grams.
    
